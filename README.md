@@ -48,3 +48,4 @@ Made with :heart: by the WakaTime Team.
 [dashboard]: https://wakatime.com/
 [supported apps]: https://github.com/wakatime/desktop-wakatime/blob/80fba053a1334f22f08c4d0b069be4951d15de95/electron/watchers/apps.ts#L3
 [contributing]: CONTRIBUTING.md
+<>
